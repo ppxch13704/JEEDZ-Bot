@@ -4,7 +4,7 @@ PHOLX Internship Project : Rust Based Discord Assistant Bot for Making an appoin
 =======
 
 
-# 🤖 Jeedz Bot
+# 🤖 JEEDZ Bot
 
 A Discord bot built in Rust. Jeedz Bot acts as a team productivity and DevOps assistant, featuring seamless Google Calendar scheduling, a background Network Uptime Monitor, and a Mini Security Operations Center (SOC) log analyzer.
 
