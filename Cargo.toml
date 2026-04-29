@@ -1,0 +1,20 @@
+[package]
+name = "jeedz-bot"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+poise = "0.6"
+serenity = { version = "0.12", default-features = false, features = ["client", "gateway", "rustls_backend", "model"] }
+tokio = { version = "1", features = ["macros", "rt-multi-thread", "time"] }
+dotenvy = "0.15"
+chrono = "0.4"
+chrono-tz = "0.10.4"
+google-calendar3 = "7.0.0+20251214"
+yup-oauth2 = "12.1.2"
+hyper-util = "0.1"
+hyper-rustls = "0.27.9"
+rustls = { version = "0.23", features = ["ring"] }
+reqwest = { version = "0.13.3", features = ["json", "rustls"] }
+linemux = "0.3"
+regex = "1.10"
