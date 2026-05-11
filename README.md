@@ -41,6 +41,5 @@ Before running this bot, you will need:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/jeedz-bot.git](https://github.com/yourusername/jeedz-bot.git)
+git clone [https://github.com/ppxch13704/jeedz-bot.git] (https://github.com/ppxch13704/jeedz-bot.git)
 cd jeedz-bot
->>>>>>> d5398a6 (Complete JEEDZ Bot v0.0.1)
